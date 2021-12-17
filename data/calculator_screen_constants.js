@@ -1,0 +1,20 @@
+module.exports= {
+    Calculator_results_terms_title: "Calculator results terms",
+    Trolley_total_title: "Trolley total:",
+    Trolley_total_content: "This is the total cost of the items you are buying before any discounts or alternative payment methods such as gift cards are deducted.",
+    Cost_per_month_title:"Cost per month:",
+    Cost_per_month_content:"This is the payment you will make each month.",
+    Number_of_monthly_payments_title:"Number of monthly payments:",
+    Number_of_monthly_payments_content:"This is the number of months your plan will last and the number of payments you will make.",
+    Representative_APR_title:"Representative APR:",
+    Representative_APR_content:"An APR (Annual Percentage Rate) is the interest rate you will be charged over a year. The Representative APR is the example rate we use and at least half of our customers will get this rate. The interest rate you will be offered will be confirmed in your application.",
+    Total_charge_for_credit_title:"Total charge for credit:",
+    Total_charge_for_credit_content:"This is the total amount of interest you will be charged over the full plan length.",
+    Total_payable_title:"Total payable:",
+    Total_payable_content:"This is the Total charge for credit, added to the Total amount of credit to give the amount of money you will pay back over the whole plan.",
+    Grey: "rgb(204,204,204)",
+    Chrome_grey:"rgba(204,204,204,1)",
+    Term_outline_color_black: "rgb(38,38,38)",
+    Term_chrome_outline_color_black: "rgba(38,38,38,1)",
+};
+
